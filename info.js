@@ -31,3 +31,16 @@ function makeDinner (...args) {
 const makeWine = (qty) => {
     return 'wine'.repeat(qty);
 }
+
+
+
+
+// Pure function
+const pure = (x) => x ** 2;
+
+// Recursion
+
+const traverse =
+
+
+
